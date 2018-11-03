@@ -1,3 +1,5 @@
+all: clean main
+
 main:
 	ghc main.hs
 
